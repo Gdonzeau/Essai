@@ -1,3 +1,3 @@
 # Essai
 Je découvre GitHub...
-Et ce n'est pas forcément simple.
+Et ce n'est pas super simple.
